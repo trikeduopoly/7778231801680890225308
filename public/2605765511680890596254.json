@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825692007380",
+    "project_id": "pinjaman-online-langsung-de1a1",
+    "storage_bucket": "pinjaman-online-langsung-de1a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825692007380:android:b06c58666a34ecae8b4441",
+        "android_client_info": {
+          "package_name": "com.pinjamanonlinelangsungcair.pinjolcraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825692007380-otieulj4b1cm78r601peot9vnknurgu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFpV71_s_MjDRRHRRAjHm-RB7huxgCirc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825692007380-otieulj4b1cm78r601peot9vnknurgu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
